@@ -107,15 +107,20 @@ section{
     background-image: url("images/Group_33094_1.png");
     background-repeat: no-repeat;
 }
-.footer-bottom{
-    
-}
 .footer-text{
     width: 40%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
 }
+.connect-content h2{
+    text-align: center;
+}
+.connect-content h3{
+    text-align: center;
+}
+
+
 
 
 
